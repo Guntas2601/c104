@@ -1,0 +1,24 @@
+
+body{
+
+    background-color: rgba(0, 255, 255, 0.908);
+    color: rgba(0, 0, 0, 0.94);
+    }
+    .Heading{
+    
+    width: 80%;
+    font-size: 25px;
+    
+    
+    }
+    #camera,#result{
+    
+    border: 2px solid rgb(247, 255, 10);
+    width: 350px ; height: 300px;
+    
+    }
+    .name_of_the_members,#object_name,#object_Accuracy{
+    
+    color: rgb(237, 23, 23);
+    font-size: 18px;
+    }
